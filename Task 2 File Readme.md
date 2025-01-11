@@ -1,6 +1,6 @@
-# Data Analysis and Insights Generation
+# Data Analysis and Insights Generation<br>
 
-**Problem Overview**
+**Problem Overview**<br>
 The objective of this task was to analyze the provided dataset and extract actionable insights by performing a series of operations, 
 including column-wise analysis, data cleaning, identification of critical columns, generation of meaningful tags, 
 and summarization of findings. The goal was to ensure the dataset is prepared for analysis, uncover key trends,
