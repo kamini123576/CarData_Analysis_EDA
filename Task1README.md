@@ -1,4 +1,4 @@
-# CarData_Analysis_EDA
+** Car Data Analysis **
 **Data Tagging and Analysis** <br>
 
 **Problem Overview**<br>
@@ -15,6 +15,7 @@ The dataset consists of multiple columns, including:<br>
 The dataset includes structured and unstructured data, requiring preprocessing and tagging to derive meaningful insights.<br>
 
 **Approach**<br>
+
 **Data Cleaning**:<br>
 Removed non-alphabetic characters and standardized text to lowercase for uniformity.
 Tokenized free-text fields to break them into meaningful words.<br>
@@ -23,9 +24,6 @@ Tokenized free-text fields to break them into meaningful words.<br>
 Extracted the most frequent words using word frequency analysis to identify recurring themes.<br>
 Mapped these words back to the dataset as tags, categorizing records based on their content.<br>
 
-**Analysis:** <br>
-Generated tags to highlight the root cause, symptom condition, symptom components, and corrective actions for each record.<br>
-Visualized word frequencies and patterns to identify key trends and common failures.<br>
 **Analysis and Insights** <br>
 **Frequent Issues:** Tags revealed that components like "steering," "sensor," and "fuel" frequently appear in complaints.<br>
 **Recurring Causes:** Common causes include loose fittings, missing parts, and faulty sensors, suggesting specific areas for quality improvement.<br>
